@@ -9,6 +9,10 @@
 
 ## 💫 About Me
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:007BFF&height=120&section=header"/>
+</p>
+
 - 🎓 Electronics & Telecommunication Engineer (SPPU)
 - 🚀 Intern @ ISRO-SAC & NCRA-GMRT
 - 🔬 Low-Noise Analog Design | Signal Processing | Embedded Systems
