@@ -35,7 +35,7 @@
 
 ### 📡 TIFR – NCRA GMRT — Research Intern
 <p>
-  <img src="https://shiti-ghosh.github.io/images/tifr-logo-black-removebg-preview.png" height="50"/>
+  <img src="https://logodix.com/logo/2011978.jpg" height="50"/>
 </p>
 
 - Modeled **wind turbulence using FFT & Davenport Spectrum**  
