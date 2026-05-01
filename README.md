@@ -83,36 +83,19 @@
 
 ---
 
+## 💻 Tech Stack
 
-<!-- <p align="center">
+ <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,matlab,github,vscode"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HDL-Verilog%20%7C%20VHDL-grey?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tools-PSpice%2C%20Vivado%2C%20Proteus-blue?style=for-the-badge"/>
-</p> -->
-## 💻 Tech Stack
+</p> 
 
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
-</p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=arduino"/>
-<img src="https://img.shields.io/badge/Verilog-grey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VHDL-grey?style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Simulink-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PSpice-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OrCAD-Cadence-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vivado-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proteus-blue?style=for-the-badge"/>
-</p>
 
 
 ---
