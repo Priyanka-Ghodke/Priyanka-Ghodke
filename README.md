@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Ghodke</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C4CC&center=true&vCenter=true&lines=Electronics+%26+Telecommunication+Engineer;Analog+Circuit+Design+%7C+VLSI+%7C+Embedded+Systems;ISRO-SAC+%7C+NCRA-GMRT+Intern;Passionate+about+Space+Instrumentation" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C4CC&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunication+Engineer;Analog+Circuit+Design+%7C+VLSI+%7C+Embedded+Systems;ISRO-SAC+%7C+NCRA-GMRT+Intern" />
 </h3>
 
 ---
