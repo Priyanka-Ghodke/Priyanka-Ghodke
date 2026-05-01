@@ -9,9 +9,7 @@
 
 ## 💫 About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:007BFF&height=120&section=header"/>
-</p>
+ <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXc2czhzaHQwdTFra2YwdGhycmFmOHppNWhibDZkN293ZTVhYW5yayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fnNkJDC0VQrrXHPrrM/giphy.gif"/>
 
 - 🎓 Electronics & Telecommunication Engineer (SPPU)
 - 🚀 Intern @ ISRO-SAC & NCRA-GMRT
