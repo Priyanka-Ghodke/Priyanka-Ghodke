@@ -1,21 +1,142 @@
-# 💫 About Me:
-Motivated Electronics & Telecommunication Engineering student with hands-on experience in low-noise analog circuit design, signal processing, and embedded systems, gained through internships at ISRO-SAC and NCRA-GMRT. Worked on SDD detector front-end readout design, focusing on low noise amplification, signal conditioning, and space-grade system performance. Proficient in Verilog, MATLAB, Embedded C, and PSpice/OrCAD, with practical exposure to system modeling, FPGA-based design, and control systems. Interested in space instrumentation, VLSI, and high performance electronic system design.
+<h1 align="center">Hi 👋, I'm Priyanka Ghodke</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-ghodke-a176a5275/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyaghodke771@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Priyanka-Ghodke&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Priyanka-Ghodke&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Priyanka-Ghodke&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C4CC&center=true&vCenter=true&lines=Electronics+%26+Telecommunication+Engineer;Analog+Circuit+Design+%7C+VLSI+%7C+Embedded+Systems;ISRO-SAC+%7C+NCRA-GMRT+Intern;Passionate+about+Space+Instrumentation" />
+</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Priyanka-Ghodke&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+🎓 Electronics & Telecommunication Engineering Student (SPPU)  
+🔬 Experience in **Low-Noise Analog Design, Signal Processing & Embedded Systems**  
+🚀 Intern at **ISRO-SAC** & **NCRA-GMRT**  
+🛰️ Focus: **Space Instrumentation | VLSI | High-Performance Systems**
+
+- Designed **SDD detector front-end readout**
+- Worked on **low-noise amplification & signal conditioning**
+- Built **control models using FFT & transfer functions**
+- Strong in **simulation + system-level thinking**
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/priyanka-ghodke-a176a5275" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="mailto:priyaghodke771@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+<a href="https://github.com/Priyanka-Ghodke"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### ⚡ Programming
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+
+### 🔧 Embedded & HDL
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Verilog](https://img.shields.io/badge/Verilog-grey?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-grey?style=for-the-badge)
+
+### 📊 Tools & Simulation
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
+![Simulink](https://img.shields.io/badge/Simulink-orange?style=for-the-badge)
+![PSpice](https://img.shields.io/badge/PSpice-red?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-blue?style=for-the-badge)
+![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge)
+
+### 📡 Concepts
+- Analog & Digital Electronics  
+- Signal Processing  
+- Control Systems  
+- VLSI Design  
+- PCB Design  
+- Communication Protocols (I2C, SPI, UART)
+
+---
+
+## 🧑‍💼 Experience
+
+### 🚀 ISRO-SAC — Research Intern
+- Designed **low-noise analog front-end** for Silicon Drift Detector
+- Converted **charge pulses → shaped signals**
+- Worked under **Sensor Development Area (SEDA)**
+
+### 📡 NCRA-GMRT — Research Intern
+- Modeled **wind turbulence using FFT & Davenport Spectrum**
+- Developed **transfer functions for antenna control**
+
+### 🔧 Emertxe Technologies — Technical Intern
+- Built **sequential control logic** using PIC16F877A
+- Developed Embedded C applications
+
+---
+
+## 🚀 Projects
+
+### 🛰️ SDD Detector Front-End Readout
+- Low-noise op-amp design using **PSpice/OrCAD**
+- Implemented **charge-sensitive amplification**
+- Optimized **SNR for space-grade systems**
+
+### 📡 Kalman Filter Noise Reduction
+- Implemented **2-state Kalman filter**
+- Removed **AWGN noise from signals**
+- Used MATLAB + GNU Radio + HFSS
+
+### 🌪️ Wind Data Analysis (GMRT)
+- Processed **86k+ sec dataset**
+- Used FFT & Welch PSD
+- Derived **4th order transfer function**
+
+### 🍲 Microwave Oven Simulation
+- Embedded system using **PIC16F877A**
+- Simulated in **Proteus & Picsimlab**
+
+---
+
+## 🎓 Education
+
+🎓 **BE - Electronics & Telecommunication**  
+Savitribai Phule Pune University (2022–2026)  
+CGPA: 7.51  
+
+📘 HSC: 82.33%  
+📘 SSC: 83.40%  
+
+---
+
+## 🏆 Achievements
+- Selected for **ISRO-SAC Internship**
+- Finalist — **COEP I2i Competition**
+- Top 50 — **SKA Training Workshop (IIT Indore)**
+- Finalist — **DIPEX State-Level Competition**
+
+---
+
+## 📜 Certifications
+- VLSI SoC Design — Maven Silicon  
+- VLSI Development — NIELIT  
+- MATLAB Onramp — MathWorks  
+- FPGA Session — IIT Bombay (eYantra)  
+- Embedded C — MindLuster  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanka-Ghodke&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka-Ghodke&theme=radical" />
+</p>
+
+---
+
+## ✨ Quote
+_"Engineering is the art of making what you want from things you can get."_ 🚀
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Priyanka-Ghodke&color=blue)
