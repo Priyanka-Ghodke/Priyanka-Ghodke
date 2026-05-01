@@ -66,7 +66,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛰️ SDD Detector Front-End Readout
+### 🛰️ Design of Low-Noise SDD Detector Front-End Readout
 - Low-noise **Op-Amp based design (PSpice/OrCAD)**  
 - Implemented **charge-sensitive amplification**  
 - Optimized **SNR for space-grade systems**  
