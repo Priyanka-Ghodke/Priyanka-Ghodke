@@ -94,19 +94,17 @@
 </p> -->
 ## 💻 Tech Stack
 
-### ⚡ Programming
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
 </p>
 
-### 🔧 Embedded & HDL
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arduino"/>
 <img src="https://img.shields.io/badge/Verilog-grey?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/VHDL-grey?style=for-the-badge"/>
 </p>
 
-### 🧪 Tools & Simulation
 <p align="center">
 <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Simulink-orange?style=for-the-badge"/>
