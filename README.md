@@ -87,7 +87,8 @@
 
  <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,matlab,github,vscode"/> 
-<img src="https://tse3.mm.bing.net/th/id/OIP.ecJ9UxFyrFd6aC_aOjQLWwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" height="50"/>    
+<img src="https://tse3.mm.bing.net/th/id/OIP.ecJ9UxFyrFd6aC_aOjQLWwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" height="50"/>  
+<img src="https://th.bing.com/th/id/OIP.UNqkzb44aaCL7NzDaTWXOwHaEK?w=322&h=181&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3" height="50"/>
 </p>
 
 <p align="center">
