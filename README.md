@@ -86,7 +86,8 @@
 ## 💻 Tech Stack
 
  <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,matlab,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,matlab,github,vscode"/> 
+<img src="https://tse3.mm.bing.net/th/id/OIP.ecJ9UxFyrFd6aC_aOjQLWwHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"/>    
 </p>
 
 <p align="center">
