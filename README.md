@@ -56,35 +56,6 @@
 - Performed **system validation & spectral analysis**
 
 ---
-### 🚀 ISRO – SAC  
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" height="45" align="left" style="margin-right:15px"/>
-  <b>Research Intern</b><br>
-  <sub>Sep 2025 – Mar 2026 | Ahmedabad, Gujarat</sub>
-</p>
-
-<br clear="left"/>
-
-- Designed **low-noise analog front-end readout** for Silicon Drift Detector  
-- Converted **very small charge pulses → well-shaped output signals**  
-- Worked under **Sensor Development Area (SEDA)** focusing on precision electronics  
-
----
-
-### 📡 TIFR – NCRA GMRT  
-<p align="left">
-  <img src="https://logodix.com/logo/2011978.jpg" height="45" align="left" style="margin-right:15px"/>
-  <b>Research Intern</b><br>
-  <sub>Jun 2025 – Aug 2025 | Pune, Maharashtra</sub>
-</p>
-
-<br clear="left"/>
-
-- Modeled **wind turbulence using FFT & Davenport Spectrum**  
-- Developed **transfer function models for antenna control systems**  
-- Performed **system validation & spectral analysis**
-
----
 
 
 ### 🔧 Emertxe Technologies — Technical Intern
