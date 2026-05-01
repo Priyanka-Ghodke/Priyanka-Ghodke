@@ -4,14 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00C4CC&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunication+Engineer;Analog+Circuit+Design+%7C+VLSI+%7C+Embedded+Systems;ISRO-SAC+%7C+NCRA-GMRT+Intern;Space+Instrumentation+Enthusiast" />
 </h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:007BFF&height=120&section=header"/>
-</p>
 
 ---
 
 ## 💫 About Me
-<img align="right" height="170" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>
 
 - 🎓 Electronics & Telecommunication Engineer (SPPU)
 - 🚀 Intern @ ISRO-SAC & NCRA-GMRT
