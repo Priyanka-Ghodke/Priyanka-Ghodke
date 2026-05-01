@@ -28,7 +28,7 @@
 ## 🧑‍💼 Experience
 
 ### 🚀 ISRO-SAC — Research Intern
-<p align="center">
+<p >
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" height="50"/>
 </p>
 
@@ -39,7 +39,7 @@
 ---
 
 ### 📡 TIFR – NCRA GMRT — Research Intern
-<p align="center">
+<p >
   <img  src="https://logodix.com/logo/2011978.jpg" height="50"/>
 </p>
 
