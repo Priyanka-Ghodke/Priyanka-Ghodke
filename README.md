@@ -15,6 +15,9 @@
 - 🚀 Intern @ ISRO-SAC & NCRA-GMRT
 - 🔬 Low-Noise Analog Design | Signal Processing | Embedded Systems
 - 🛰️ Focus: VLSI, Space Electronics, High-Speed Systems
+-
+-
+-
 
 ---
 
