@@ -11,60 +11,70 @@
 ---
 
 ## 💫 About Me
-<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" height="170" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>
 
 - 🎓 Electronics & Telecommunication Engineer (SPPU)
-- 🚀 Intern @ **ISRO-SAC** & **NCRA-GMRT**
-- 🔬 Working on **Low-Noise Analog Circuits & Signal Processing**
-- 🛰️ Interested in **VLSI, Space Electronics & High-Speed Systems**
+- 🚀 Intern @ ISRO-SAC & NCRA-GMRT
+- 🔬 Low-Noise Analog Design | Signal Processing | Embedded Systems
+- 🛰️ Focus: VLSI, Space Electronics, High-Speed Systems
 
 ---
 
-## 🚀 Featured Projects (Visual Showcase)
+## 🧑‍💼 Experience
 
-### 🛰️ SDD Detector Front-End Readout
-<p align="center">
-  <img src="https://img.shields.io/badge/Analog%20Design-Low%20Noise-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tool-PSpice%2FOrCAD-red?style=for-the-badge"/>
+### 🚀 ISRO-SAC — Research Intern
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" height="50"/>
 </p>
 
-- Designed **low-noise charge-sensitive amplifier**
-- Converted **small charge pulses → shaped signals**
-- Optimized **SNR for space applications**
+- Designed **low-noise analog front-end** for Silicon Drift Detector  
+- Converted **charge pulses → shaped signals**  
+- Worked in **Sensor Development Area (SEDA)**  
+
+---
+
+### 📡 TIFR – NCRA GMRT — Research Intern
+<p>
+  <img src="https://www.tifr.res.in/sites/default/files/tifr_logo.png" height="50"/>
+</p>
+
+- Modeled **wind turbulence using FFT & Davenport Spectrum**  
+- Developed **transfer function models for antenna control systems**  
+
+---
+
+### 🔧 Emertxe Technologies — Technical Intern
+- Built **sequential control logic using PIC16F877A**  
+- Developed Embedded C applications  
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ SDD Detector Front-End Readout
+- Low-noise **Op-Amp based design (PSpice/OrCAD)**  
+- Implemented **charge-sensitive amplification**  
+- Optimized **SNR for space-grade systems**  
 
 ---
 
 ### 📡 Kalman Filter Noise Reduction
-<p align="center">
-  <img src="https://img.shields.io/badge/Signal%20Processing-MATLAB-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Filtering-Kalman-green?style=for-the-badge"/>
-</p>
-
-- Implemented **2-state Kalman filter**
-- Removed **AWGN noise**
-- Simulated using **GNU Radio + HFSS**
+- Implemented **2-state Kalman Filter**  
+- Removed **AWGN noise**  
+- Tools: MATLAB, GNU Radio, HFSS  
 
 ---
 
-### 🌪️ Wind Data Modeling (GMRT)
-<p align="center">
-  <img src="https://img.shields.io/badge/FFT-Welch%20PSD-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Control%20System-Transfer%20Function-purple?style=for-the-badge"/>
-</p>
-
-- Processed **86k+ seconds of real data**
-- Modeled **antenna dynamics**
-- Derived **4th order transfer function**
+### 🌪️ Wind Data Modeling
+- Processed **86k+ sec GMRT data**  
+- FFT + Welch PSD analysis  
+- Derived **4th-order transfer function**  
 
 ---
 
-### 🍲 Embedded Microwave Simulation
-<p align="center">
-  <img src="https://img.shields.io/badge/Microcontroller-PIC16F877A-green?style=for-the-badge"/>
-</p>
-
-- Built **real-time embedded simulation**
-- Tested in **Proteus & Picsimlab**
+### 🍲 Microwave Oven Simulation
+- Embedded system using **PIC16F877A**  
+- Simulated in **Proteus & Picsimlab**  
 
 ---
 
@@ -81,11 +91,41 @@
 
 ---
 
-## 🧑‍💼 Experience Timeline
+## 🏆 Achievements
+- 🚀 Selected for **ISRO-SAC Internship**
+- 🏁 Finalist — COEP I2i Competition  
+- 🌍 Top 50 — SKA IIT Indore  
+- 🏅 DIPEX State-Level Finalist  
 
-```mermaid
-timeline
-    title Career Timeline
-    2025 : ISRO-SAC Internship (Analog Front-End Design)
-    2025 : NCRA-GMRT (Signal Processing & Control)
-    2025 : Emertxe (Embedded Systems)
+---
+
+## 📜 Certifications
+- VLSI SoC Design — Maven Silicon  
+- VLSI Development — NIELIT  
+- MATLAB Onramp  
+- Embedded C  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanka-Ghodke&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka-Ghodke&theme=radical"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/priyanka-ghodke-a176a5275"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:priyaghodke771@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://github.com/Priyanka-Ghodke"><img src="https://skillicons.dev/icons?i=github"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C4CC&height=120&section=footer"/>
+</p>
