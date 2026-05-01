@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
- <img align="right" height="250" width="200" src="https://www.bing.com/th/id/OGC.f1fe2bedf56e51d8ed5b3e0e00f2b33a?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f80%2ff2%2f65%2f80f265fdb20ed9d889b83bbcbdbdfddc.gif&ehk=9%2f9FWqgum9CjC%2f2gfCprxTAyGy1PfreYidXxNLF%2bNYQ%3d"/>
+ <img align="right" height="250" width="500" src="https://www.bing.com/th/id/OGC.f1fe2bedf56e51d8ed5b3e0e00f2b33a?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f80%2ff2%2f65%2f80f265fdb20ed9d889b83bbcbdbdfddc.gif&ehk=9%2f9FWqgum9CjC%2f2gfCprxTAyGy1PfreYidXxNLF%2bNYQ%3d"/>
 
 - 🎓 Electronics & Telecommunication Engineer (SPPU)
 - 🚀 Intern @ ISRO-SAC & NCRA-GMRT
