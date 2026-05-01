@@ -28,7 +28,7 @@
 ## 🧑‍💼 Experience
 
 ### 🚀 ISRO-SAC — Research Intern
-<p>
+<p align="center">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" height="50"/>
 </p>
 
@@ -39,8 +39,8 @@
 ---
 
 ### 📡 TIFR – NCRA GMRT — Research Intern
-<p>
-  <img align="center" src="https://logodix.com/logo/2011978.jpg" height="50"/>
+<p align="center">
+  <img  src="https://logodix.com/logo/2011978.jpg" height="50"/>
 </p>
 
 - Modeled **wind turbulence using FFT & Davenport Spectrum**  
