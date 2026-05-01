@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Ghodke</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C4CC&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunication+Engineer;Analog+Circuit+Design+%7C+VLSI+%7C+Embedded+Systems;ISRO-SAC+%7C+NCRA-GMRT+Intern;Space+Instrumentation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C4CC&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunication+Engineer;Analog+Circuit+Design+%7C+VLSI+%7C+Embedded+Systems;ISRO-SAC+%7C+NCRA-GMRT+Intern" />
 </h3>
 
 
@@ -29,7 +29,7 @@
 
 ### 🚀 ISRO-SAC — Research Intern
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" height="50"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Indian_Space_Research_Organisation_Logo.svg" height="50"/>
 </p>
 
 - Designed **low-noise analog front-end** for Silicon Drift Detector  
@@ -40,7 +40,7 @@
 
 ### 📡 TIFR – NCRA GMRT — Research Intern
 <p>
-  <img src="https://logodix.com/logo/2011978.jpg" height="50"/>
+  <img align="center" src="https://logodix.com/logo/2011978.jpg" height="50"/>
 </p>
 
 - Modeled **wind turbulence using FFT & Davenport Spectrum**  
@@ -138,6 +138,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00C4CC&height=120&section=footer"/>
-</p>
